@@ -138,6 +138,8 @@ pip install --no-deps xformers trl peft accelerate bitsandbytes
 ### Notebook 3: RLHF with DPO
 **Objective**: Align model with human preferences
 
+📺 **Video Tutorial**: [Direct Preference Optimization with Unsloth.ai](https://youtu.be/zMBV7hoo_KU)
+
 - **Dataset**: Anthropic HH-RLHF (human feedback)
 - **Method**: Direct Preference Optimization (simpler than traditional RLHF)
 - **Training**: Chosen vs rejected response pairs
