@@ -166,6 +166,8 @@ pip install --no-deps xformers trl peft accelerate bitsandbytes
 ### Notebook 5: Continued Pre-training
 **Objective**: Adapt model to new language (Tamil)
 
+📺 **Video Tutorial**: [Continued Pre-training with Unsloth.ai](https://youtu.be/B3qzUoyg_7A)
+
 - **Dataset**: OSCAR Tamil corpus
 - **Method**: High-rank LoRA including embeddings
 - **Analysis**: Tokenization efficiency comparison
