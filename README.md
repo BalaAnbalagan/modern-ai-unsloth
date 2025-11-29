@@ -110,6 +110,8 @@ pip install --no-deps xformers trl peft accelerate bitsandbytes
 ### Notebook 1: Full Fine-tuning
 **Objective**: Train all model parameters using high-rank LoRA
 
+📺 **Video Tutorial**: [Full Fine-tuning with Unsloth.ai](https://youtu.be/8L875dy9nfk)
+
 - **Dataset**: CodeParrot (Python code)
 - **LoRA Config**: Rank=256, includes lm_head + embed_tokens
 - **Use Case**: Domain adaptation, learning new capabilities
@@ -121,6 +123,8 @@ pip install --no-deps xformers trl peft accelerate bitsandbytes
 
 ### Notebook 2: LoRA Fine-tuning
 **Objective**: Demonstrate parameter-efficient training
+
+📺 **Video Tutorial**: [LoRA Fine-tuning with Unsloth.ai](https://youtu.be/8L875dy9nfk)
 
 - **Dataset**: Same as Notebook 1 (for comparison)
 - **LoRA Config**: Rank=8, alpha=16 (attention layers only)
