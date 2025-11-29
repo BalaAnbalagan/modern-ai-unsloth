@@ -152,6 +152,8 @@ pip install --no-deps xformers trl peft accelerate bitsandbytes
 ### Notebook 4: GRPO Reasoning
 **Objective**: Improve multi-step reasoning abilities
 
+📺 **Video Tutorial**: [Group Relative Policy Optimization with Unsloth.ai](https://youtu.be/srQHKjLCnAo)
+
 - **Dataset**: GSM8K (grade school math problems)
 - **Method**: Group Relative Policy Optimization
 - **Evaluation**: Before/after accuracy comparison
